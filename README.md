@@ -1,3 +1,3 @@
 # Assignments
 
-Simple Pyhton assigments.
+Simple Python assignments.
